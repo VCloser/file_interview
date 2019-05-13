@@ -15,6 +15,8 @@ Welcome to file's documentation!
    :maxdepth: 2
 
    file
+   Algorithm
+   data
 
 
 
